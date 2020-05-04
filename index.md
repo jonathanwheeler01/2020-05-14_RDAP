@@ -2,6 +2,26 @@
 
 The RDAP Education & Resources committee presents the first in a series of online, interactive workshops: Collaboratively Curating Open, Educational Datasets. Participants in this event will have an opportunity to gain hands-on experience with common data curation strategies and tools by curating a publicly available dataset to improve its FAIR-ness and educational fitness-for-purpose.
 
-For this initial workshop, participants will curate data that have been previously published on the New Mexico Digital Collections, a statewide service provided by the University of New Mexico. The collection of focus is the UNM Center for Southwest Research's Linda S. Cordell Digital Media and Archaeological Data collection: <https://econtent.unm.edu/digital/collection/cordell>, which consists of documents, media, and other items from the archive of distinguished UNM archaeology professor, Dr. Linda Cordell. In particular, the pubished collection includes research data describing the chemical compositions of regional soil and corn samples. The objectives of this workshop will be to provide some additional curation to augment the metadata for these items and outline learning modules that appropriately use the data to demonstrate data curation strategies and/or archaeological research methods.
+This page will be continuously updated ahead of the hackathon. 
 
-Participants will be encouraged to provide feedback on the workflows, tools, and outcomes of the workshop to support its expansion and application to additional data types and disciplines.
+## Objectives
+
+* Augment the existing metadata records to support discoverability, access, and use of the data.
+* Curate for long term preservation in UNM's non-public archive. This includes augmenting the data to include administrative and preservation metadata.
+* Initiate development of lesson plans or lab activities that use the data to demonstrate data curation or archaeological methods or strategies.
+
+## Resources
+
+For the event, we will refer to the following references and resources:
+
+* [UNM CSWR Linda S. Cordell Digital Media and Archaeological Data](https://econtent.unm.edu/digital/collection/cordell)
+* [Linda S. Cordell Papers](https://rmoa.unm.edu/docviewer.php?docId=nmumss1058bc.xml) finding aid
+* [Data Curation Network Primers](https://datacurationnetwork.org/resources/data-curation-primers/)
+
+## TO DO
+
+Ahead of the event, some to-dos are
+
+* Create a priority file list.
+* Create a shared working space in GDocs, etc.
+* Registered participants will receive a pre-survey. Responses will be used to help plan the event, and will not be used for any research purposes. 
