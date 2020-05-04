@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Research Data Access & Preservation Workshop: Collaborative Curation of Open Educational Datasets
 
-You can use the [editor on GitHub](https://github.com/jonathanwheeler01/2020-05-14_RDAP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The RDAP Education & Resources committee presents the first in a series of online, interactive workshops: Collaboratively Curating Open, Educational Datasets. Participants in this event will have an opportunity to gain hands-on experience with common data curation strategies and tools by curating a publicly available dataset to improve its FAIR-ness and educational fitness-for-purpose.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonathanwheeler01/2020-05-14_RDAP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For this initial workshop, participants will curate data that have been previously published on the New Mexico Digital Collections, a statewide service provided by the University of New Mexico. The collection of focus is the UNM Center for Southwest Research's Linda S. Cordell Digital Media and Archaeological Data collection: https://econtent.unm.edu/digital/collection/cordell, which consists of documents, media, and other items from the archive of distinguished UNM archaeology professor, Dr. Linda Cordell. In particular, the pubished collection includes research data describing the chemical compositions of regional soil and corn samples. The objectives of this workshop will be to provide some additional curation to augment the metadata for these items and outline learning modules that appropriately use the data to demonstrate data curation strategies and/or archaeological research methods.
+Participants will be encouraged to provide feedback on the workflows, tools, and outcomes of the workshop to support its expansion and application to additional data types and disciplines.
