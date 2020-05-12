@@ -15,7 +15,7 @@ This page will be continuously updated ahead of the hackathon.
 For the event, we will refer to the following references and resources:
 
 * [UNM CSWR Linda S. Cordell Digital Media and Archaeological Data](https://econtent.unm.edu/digital/collection/cordell)
-* [Linda S. Cordell Papers](https://rmoa.unm.edu/docviewer.php?docId=nmumss1058bc.xml) finding aid
+* [Linda S. Cordell Papers (MSS 1058), Center for Southwest Research and Special Collections, University of New Mexico Libraries](https://rmoa.unm.edu/docviewer.php?docId=nmumss1058bc.xml) finding aid
 * [Data Curation Network Primers](https://datacurationnetwork.org/resources/data-curation-primers/)
 
 ## TO DO
