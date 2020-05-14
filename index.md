@@ -4,6 +4,7 @@ The RDAP Education & Resources committee presents the first in a series of onlin
 
 ## Objectives
 
+* Develop a process for collaborative, online data curation.
 * Augment the existing metadata records to support discoverability, access, and use of the data.
 * Curate for long term preservation in UNM's non-public archive. This includes augmenting the data to include administrative and preservation metadata.
 * Initiate development of lesson plans or lab activities that use the data to demonstrate data curation or archaeological methods or strategies.
